@@ -1,20 +1,13 @@
 # Introduction 
-TODO: Give a short introduction of your project. Let this section explain the objectives or the motivation behind this project. 
+A sci-fi warehouse game/simulation project for CAP5115, UCF's graduate-level Virtual Reality Engineering course. This project involved incorporating
+6 main aspects of VR development over the course of the Spring 2024 semester:
+1. Virtual Environment
+2. Travel
+3. Interaction
+4. Physics
+5. Animations
+6. User Interface
 
-# Getting Started
-TODO: Guide users through getting your code up and running on their own system. In this section you can talk about:
-1.	Installation process
-2.	Software dependencies
-3.	Latest releases
-4.	API references
+Video demos with commentary can be found here: [VR Sci-Fi Warehouse Showcase](https://youtube.com/playlist?list=PLuCiRApY3VjdbR2FZVq_b70qQNSuZX89a&si=WPUKh0wi2mRu2Hbm)
 
-# Build and Test
-TODO: Describe and show how to build your code and run the tests. 
-
-# Contribute
-TODO: Explain how other users and developers can contribute to make your code better. 
-
-If you want to learn more about creating good readme files then refer the following [guidelines](https://docs.microsoft.com/en-us/azure/devops/repos/git/create-a-readme?view=azure-devops). You can also seek inspiration from the below readme files:
-- [ASP.NET Core](https://github.com/aspnet/Home)
-- [Visual Studio Code](https://github.com/Microsoft/vscode)
-- [Chakra Core](https://github.com/Microsoft/ChakraCore)
+This project was developed in Unity with the XR Interaction Toolkit.
