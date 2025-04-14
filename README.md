@@ -1,6 +1,8 @@
 # VR-Engineering
 
-The Sci-Fi Warehouse VR project files are hosted on [Azure DevOps](https://dev.azure.com/Zach-Sally/_git/VR-Engineering) due to Git LFS storage concerns on GitHub. Azure DevOps requires you to sign in with a Microsoft account to view the repository.
+> [!IMPORTANT]
+> The Sci-Fi Warehouse VR project files are hosted on [Azure DevOps](https://dev.azure.com/Zach-Sally/_git/VR-Engineering) due to Git LFS storage concerns on GitHub.
+> Azure DevOps requires you to sign in with a Microsoft account to view the repository.
 
 A sci-fi warehouse game/simulation project for CAP5115, UCF's graduate-level Virtual Reality Engineering course. This project involved incorporating
 6 main aspects of VR development over the course of the Spring 2024 semester:
